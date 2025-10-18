@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ChatJoinRe
 import random
 
 # Токен бота
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8294445897:AAFI_EIWUQmmWoqB7JC-yjfF7wZiDZQzIuI"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Создание кнопки
